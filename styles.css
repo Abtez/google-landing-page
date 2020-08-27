@@ -1,0 +1,21 @@
+#second-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     margin-top: 8%;
+}
+
+.buttons{
+    padding: 25px;
+}
+
+button{
+    text-transform: capitalize;
+
+}
+
+#third-container{
+    margin-top: 11%;
+}
+
